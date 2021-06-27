@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "TTNorms";
+  src: url("../fonts/TTNorms-400.woff2") format("woff2"),
+    url("../fonts/TTNorms-400.woff") format("woff");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TTNorms";
+  src: url("../fonts/TTNorms-500.woff2") format("woff2"),
+    url("../fonts/TTNorms-500.woff") format("woff");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PFRegalDisplayPro";
+  src: url("../fonts/PFRegalDisplayPro-500-italic.woff2") format("woff2"),
+    url("../fonts/PFRegalDisplayPro-500-italic.woff") format("woff");
+  font-display: swap;
+  font-weight: 500;
+  font-style: italic;
+}
